@@ -55,9 +55,9 @@ Scorpio28
 Login(){
 Scorpio28
 echo -e -n "${negro}
-┌════════════════════┐
-█ ${verde}INGRESE SU USUARIO ${negro}█
-└════════════════════┘
+┌═══════════════════════┐
+█ ${verde}INGRESE SU CONTRASEÑA ${negro}█
+└═══════════════════════┘
 ┃
 └═>>> "${verde}
 read -s -r PASS
