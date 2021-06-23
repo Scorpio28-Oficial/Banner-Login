@@ -39,7 +39,7 @@ ${negro}║${verde}                                                      ${negro
 ${negro}║${verde} ${negro}[${cian}>${negro}] ${negro}[${cian}>${negro}]${cian} ${negro}[${cian}>${negro}]${blanco} ${DATE} ${negro}[${cian}<${negro}] ${negro}[${cian}<${negro}] ${negro}[${cian}<${negro}] ${negro}║${verde} 
 ${negro}╚══════════════════════════════════════════════════════╝${verde}
 ${blanco}" | pv -qL 4998
-PS1="\[\e[1;37m╭━━━( \033[1;30m@\033[1;32mScorpio28\033[1;31m\w\033[1;37m )━━━๏\n│\n╰━━━═>>> "
+PS1="\[\e[0m╭━━━( \033[1;30m@\033[1;32mScorpio28\033[0;35m\w\033[0m )━━━๏\n│\n╰━━━═>>> "
 }
 ctrl_c(){
 echo -e "${rojo}
