@@ -1,3 +1,4 @@
+![version-1.0](https://img.shields.io/badge/Banner-Login-1.0-green)
 # Banner-Login
 Es una herramienta creada en bash, cuya función es un login para poder acceder a la terminal mediante un nombre de usuario (clave de acceso) y evitar acceso de intrusos.
 
