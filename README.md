@@ -37,5 +37,5 @@ __(Aqui pide un usuario ingresen el que deseen no lo olviden ya que con ese ingr
 
 ## Captura de pantalla
 <p align="center">
-	<img src="http://imgur.com/Eyuebr1.jpg" width="600px">
+	<img src="http://imgur.com/gallery/Eyuebr1.jpg" width="600px">
 </p>
