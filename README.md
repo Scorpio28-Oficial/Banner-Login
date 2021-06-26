@@ -35,4 +35,7 @@ __(Aqui pide un usuario ingresen el que deseen no lo olviden ya que con ese ingr
 
 # By: Scorpio28
 
-![alt text](https://imgur.com/gallery/8VL5MDa/URLSpoof/blob/main/images/url.png)
+## Captura de pantalla
+<p align="center">
+	<img src="http://imgur.com/Eyuebr1.jpg" width="600px">
+</p>
