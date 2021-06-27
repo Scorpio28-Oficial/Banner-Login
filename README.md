@@ -18,6 +18,7 @@ __CIERREN Y VUELVAN ABRIR LA TERMINAL__:
 
 __INSTALACION__
 
+```
 * apt update && apt upgrade -y
 
 * pkg install git -y
@@ -34,8 +35,9 @@ __INSTALACION__
 
 * bash install.sh
 
-__(Aqui pide un usuario ingresen el que deseen no lo olviden ya que con ese ingresaran a la terminal)__:
+(Aqui pide un usuario ingresen el que deseen no lo olviden ya que con ese ingresaran a la terminal)
 
 * bash login.sh
+```
 
 # By: Scorpio28
