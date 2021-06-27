@@ -2,13 +2,6 @@
 
 <p align="center">
 	<img src="https://i.imgur.com/9bIgTUN.jpg" width="600px">
-</p> <p align="center">
-	<img src="https://i.imgur.com/Z3MVO9f.jpg" width="600px">
-</p> <p align="center">
-	<img src="https://i.imgur.com/Ph1Eo9z.jpg" width="600px">
-</p>
-<p align="center">
-	<img src="https://i.imgur.com/P8Y5jJK.jpg" width="600px">
 </p>
 
 Es una herramienta creada en bash, cuya función es un login para poder acceder a la terminal mediante un nombre de usuario (clave de acceso) y evitar acceso de intrusos.
