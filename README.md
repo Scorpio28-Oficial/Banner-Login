@@ -6,7 +6,7 @@
 
 Es una herramienta creada en bash, cuya función es un login para poder acceder a la terminal mediante un nombre de usuario (clave de acceso) y evitar acceso de intrusos.
 
-__ELIMINA ARCHIVO MOTD__:
+#### ELIMINA ARCHIVO MOTD:
 
 * cd ../usr/etc/;ls
 
@@ -14,9 +14,9 @@ __ELIMINA ARCHIVO MOTD__:
 
 * ls
 
-__CIERREN Y VUELVAN ABRIR LA TERMINAL__:
+#### CIERREN Y VUELVAN ABRIR LA TERMINAL:
 
-__INSTALACION__
+#### INSTALACION
 
 ```
 * apt update && apt upgrade -y
@@ -40,4 +40,4 @@ __INSTALACION__
 * bash login.sh
 ```
 
-# By: Scorpio28
+### By: Scorpio28
