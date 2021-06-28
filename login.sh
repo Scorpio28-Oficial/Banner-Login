@@ -63,7 +63,7 @@ read -s -r PASS
 
 if [[ "${PASS}" == "${PASSWORD}" ]]; then
 sleep 0.5
-echo -e "${verde}
+echo -e "$\n{verde}
 [${blanco}█████████████████████████${verde}] 100%${blanco}\n" | pv -qL 55
 sleep 2
 Scorpio28
