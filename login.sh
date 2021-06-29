@@ -64,10 +64,7 @@ read -s -r PASS
 if [[ "${PASS}" == "${PASSWORD}" ]]; then
 sleep 0.5
 echo -e "${negro}
-┌══════════════════════════┐
-█ ${verde}ACCEDIENDO AL SISTEMA... ${negro}█
-└══════════════════════════┘
-"${blanco}
+cmatrix -L
 sleep 2
 Scorpio28
 else
