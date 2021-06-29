@@ -10,7 +10,8 @@ cian="\e[1;36m"
 rojo="\e[1;31m"
 purpura="\e[1;35m"
 amarillo="\e[1;33m"
-blanco="\e[1;37m
+blanco="\e[1;37m"
+# CÓDIGO
 Scorpio28(){
 	sleep 0.5
 	clear
@@ -62,7 +63,6 @@ read -s -r PASS
 
 if [[ "${PASS}" == "${PASSWORD}" ]]; then
 sleep 0.5
-echo -e "${negro}
 echo -e "${negro}
 ┌══════════════════════════┐
 █ ${verde}ACCEDIENDO AL SISTEMA... ${negro}█
