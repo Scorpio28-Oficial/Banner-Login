@@ -10,8 +10,7 @@ cian="\e[1;36m"
 rojo="\e[1;31m"
 purpura="\e[1;35m"
 amarillo="\e[1;33m"
-blanco="\e[1;37m"
-# CÓDIGO
+blanco="\e[1;37m
 Scorpio28(){
 	sleep 0.5
 	clear
