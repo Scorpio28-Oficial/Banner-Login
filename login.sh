@@ -71,11 +71,7 @@ echo -e "${negro}
 sleep 2
 Scorpio28
 else
-echo -e "${rojo}
-┌═══════════════════┐
-█ ${verde}¡ACCESO DENEGADO! ${rojo}█
-└═══════════════════┘
-"${blanco}
+cmatrix -L
 sleep 1
 Login
 fi
