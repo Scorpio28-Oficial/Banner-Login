@@ -40,7 +40,15 @@ Es una herramienta creada en bash, cuya función es un login para poder acceder 
 * bash login.sh
 ```
 
-### By: Scorpio28
+<li>
+<a href="https://t.me/Informatic_in_Termux">Informatic in Termux</a>
+</li>
+
+###### Creator: Scorpio28
+
+
+
+
 <p align="center">
 	<img src="https://i.imgur.com/9bIgTUN.jpg" width="600px">
 </p>
